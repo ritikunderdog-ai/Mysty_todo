@@ -1,0 +1,9 @@
+# Build & Binary Artifacts
+*.apk
+*.mp4
+frontend/android/build/
+frontend/build/
+.dart_tool/
+.idea/
+.vscode/
+*.log
